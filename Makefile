@@ -12,11 +12,9 @@ down:
 	@echo "Removing containers."
 	docker-compose down
 
-
 stop:
 	@echo "Stopping containers..."
 	@docker-compose stop
-
 
 shell-s:
 	docker exec -u 0 -ti project_server_1 sh

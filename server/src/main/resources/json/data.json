@@ -2,25 +2,49 @@
   {
     "id": 1,
     "name": "New York",
-    "startDate": 1641642342,
-    "endDate": 1646739942
+    "startDate": 1673178342,
+    "endDate": 1678275942
   },
   {
     "id": 2,
     "name": "Los Angeles",
-    "startDate": 1641642242,
-    "endDate": 1646739942
+    "startDate": 1673178242,
+    "endDate": 1678275942
   },
   {
     "id": 3,
     "name": "Miami",
-    "startDate": 1641642342,
-    "endDate": 1646939942
+    "startDate": 1673178342,
+    "endDate": 1678475942
   },
   {
     "id": 4,
     "name": "Austin",
-    "startDate": 1641642342,
-    "endDate": 1646939942
+    "startDate": 1673178342,
+    "endDate": 1678475942
+  }, 
+  {
+    "id": 1,
+    "name": "Denver",
+    "startDate": 1673178342,
+    "endDate": 1678275942
+  },
+  {
+    "id": 2,
+    "name": "Pittsburgh",
+    "startDate": 1673178242,
+    "endDate": 1678275942
+  },
+  {
+    "id": 3,
+    "name": "Burlington",
+    "startDate": 1673178342,
+    "endDate": 1678475942
+  },
+  {
+    "id": 4,
+    "name": "San Francisco",
+    "startDate": 1673178342,
+    "endDate": 1678475942
   }
 ]

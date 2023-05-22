@@ -18,6 +18,7 @@ class Locations extends Component {
         key: 'name'
       }
     ];
+    console.log('this.props.locations', this.props.locations);
     return (
       <Table columns={columns} dataSource={this.props.locations} />
     );
