@@ -11,9 +11,7 @@ class Footer extends Component {
 
   render() {
     return (
-
       <LayoutFooter style={{ textAlign: 'center' }}>Powered by Spring Boot and React</LayoutFooter>
-
     );
   }
 }

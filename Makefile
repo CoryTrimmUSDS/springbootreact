@@ -1,4 +1,4 @@
-.PHONY: up down stop shell-c shell-d shell-s
+.PHONY: up down stop build shell-c shell-d shell-s
 
 default: up
 
@@ -15,6 +15,10 @@ down:
 stop:
 	@echo "Stopping containers..."
 	@docker-compose stop
+
+build:
+	@echo "Rebuilding containers..."
+	@docker-compose build --no-cache
 
 shell-s:
 	docker exec -u 0 -ti project_server_1 sh

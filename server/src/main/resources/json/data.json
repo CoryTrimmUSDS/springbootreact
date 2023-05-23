@@ -2,49 +2,301 @@
   {
     "id": 1,
     "name": "New York",
-    "startDate": 1673178342,
-    "endDate": 1678275942
+    "startDate": 1662316800,
+    "endDate": 1663286400
   },
   {
     "id": 2,
     "name": "Los Angeles",
-    "startDate": 1673178242,
-    "endDate": 1678275942
+    "startDate": 1664553600,
+    "endDate": 1666099200
   },
   {
     "id": 3,
     "name": "Miami",
-    "startDate": 1673178342,
-    "endDate": 1678475942
+    "startDate": 1667145600,
+    "endDate": 1667779200
   },
   {
     "id": 4,
     "name": "Austin",
-    "startDate": 1673178342,
-    "endDate": 1678475942
-  }, 
-  {
-    "id": 1,
-    "name": "Denver",
-    "startDate": 1673178342,
-    "endDate": 1678275942
+    "startDate": 1668854400,
+    "endDate": 1669747200
   },
   {
-    "id": 2,
+    "id": 5,
+    "name": "Dublin",
+    "startDate": 1670995200,
+    "endDate": 1671264000
+  },
+  {
+    "id": 6,
     "name": "Pittsburgh",
-    "startDate": 1673178242,
-    "endDate": 1678275942
+    "startDate": 1672579200,
+    "endDate": 1673178242
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "Burlington",
-    "startDate": 1673178342,
-    "endDate": 1678475942
+    "startDate": 1673178242,
+    "endDate": 1674220800
   },
   {
-    "id": 4,
+    "id": 8,
     "name": "San Francisco",
-    "startDate": 1673178342,
-    "endDate": 1678475942
+    "startDate": 1674451200,
+    "endDate": 1674979200
+  },
+  {
+    "id": 9,
+    "name": "Chicago",
+    "startDate": 1676304000,
+    "endDate": 1677062400
+  },
+  {
+    "id": 10,
+    "name": "Seattle",
+    "startDate": 1677062400,
+    "endDate": 1678540800
+  },
+  {
+    "id": 11,
+    "name": "Denver",
+    "startDate": 1678540800,
+    "endDate": 1679136000
+  },
+  {
+    "id": 12,
+    "name": "Toronto",
+    "startDate": 1680048000,
+    "endDate": 1680710400
+  },
+  {
+    "id": 13,
+    "name": "Vancouver",
+    "startDate": 1680806400,
+    "endDate": 1682380800
+  },
+  {
+    "id": 14,
+    "name": "London",
+    "startDate": 1682380800,
+    "endDate": 1683244800
+  },
+  {
+    "id": 15,
+    "name": "Paris",
+    "startDate": 1683350400,
+    "endDate": 1683888000
+  },
+  {
+    "id": 16,
+    "name": "Berlin",
+    "startDate": 1683984000,
+    "endDate": 1684425600
+  },
+  {
+    "id": 17,
+    "name": "Rome",
+    "startDate": 1684579200,
+    "endDate": 1685212800
+  },
+  {
+    "id": 18,
+    "name": "Tokyo",
+    "startDate": 1685347200,
+    "endDate": 1685856000
+  },
+  {
+    "id": 19,
+    "name": "Sydney",
+    "startDate": 1686038400,
+    "endDate": 1686960000
+  },
+  {
+    "id": 20,
+    "name": "Beijing",
+    "startDate": 1687214400,
+    "endDate": 1687809600
+  },
+  {
+    "id": 21,
+    "name": "Moscow",
+    "startDate": 1687977600,
+    "endDate": 1688841600
+  },
+  {
+    "id": 22,
+    "name": "Cairo",
+    "startDate": 1688841600,
+    "endDate": 1689561600
+  },
+  {
+    "id": 23,
+    "name": "Rio de Janeiro",
+    "startDate": 1689648000,
+    "endDate": 1690656000
+  },
+  {
+    "id": 24,
+    "name": "Mexico City",
+    "startDate": 1690656000,
+    "endDate": 1691376000
+  },
+  {
+    "id": 25,
+    "name": "Buenos Aires",
+    "startDate": 1691376000,
+    "endDate": 1692216000
+  },
+  {
+    "id": 26,
+    "name": "Cape Town",
+    "startDate": 1692216000,
+    "endDate": 1692979200
+  },
+  {
+    "id": 27,
+    "name": "São Paulo",
+    "startDate": 1692979200,
+    "endDate": 1694028800
+  },
+  {
+    "id": 28,
+    "name": "Dubai",
+    "startDate": 1694028800,
+    "endDate": 1694683200
+  },
+  {
+    "id": 29,
+    "name": "Mumbai",
+    "startDate": 1694683200,
+    "endDate": 1695648000
+  },
+  {
+    "id": 30,
+    "name": "Sydney",
+    "startDate": 1695648000,
+    "endDate": 1696387200
+  },
+  {
+    "id": 31,
+    "name": "Stockholm",
+    "startDate": 1696387200,
+    "endDate": 1696848000
+  },
+  {
+    "id": 32,
+    "name": "Amsterdam",
+    "startDate": 1696848000,
+    "endDate": 1697657600
+  },
+  {
+    "id": 33,
+    "name": "Helsinki",
+    "startDate": 1697657600,
+    "endDate": 1698396800
+  },
+  {
+    "id": 34,
+    "name": "Oslo",
+    "startDate": 1698396800,
+    "endDate": 1699046400
+  },
+  {
+    "id": 35,
+    "name": "Vienna",
+    "startDate": 1699046400,
+    "endDate": 1699689600
+  },
+  {
+    "id": 36,
+    "name": "Athens",
+    "startDate": 1699689600,
+    "endDate": 1700448000
+  },
+  {
+    "id": 37,
+    "name": "Istanbul",
+    "startDate": 1700448000,
+    "endDate": 1701139200
+  },
+  {
+    "id": 38,
+    "name": "Copenhagen",
+    "startDate": 1701139200,
+    "endDate": 1701904000
+  },
+  {
+    "id": 39,
+    "name": "Madrid",
+    "startDate": 1701904000,
+    "endDate": 1702744000
+  },
+  {
+    "id": 40,
+    "name": "Lisbon",
+    "startDate": 1702744000,
+    "endDate": 1703568000
+  },
+  {
+    "id": 41,
+    "name": "Budapest",
+    "startDate": 1703568000,
+    "endDate": 1704323200
+  },
+  {
+    "id": 42,
+    "name": "Prague",
+    "startDate": 1704323200,
+    "endDate": 1705004800
+  },
+  {
+    "id": 43,
+    "name": "Warsaw",
+    "startDate": 1705004800,
+    "endDate": 1705792000
+  },
+  {
+    "id": 44,
+    "name": "Dubrovnik",
+    "startDate": 1705792000,
+    "endDate": 1706438400
+  },
+  {
+    "id": 45,
+    "name": "Santorini",
+    "startDate": 1706438400,
+    "endDate": 1706985600
+  },
+  {
+    "id": 46,
+    "name": "Reykjavik",
+    "startDate": 1706985600,
+    "endDate": 1707692800
+  },
+  {
+    "id": 47,
+    "name": "Edinburgh",
+    "startDate": 1707692800,
+    "endDate": 1708556800
+  },
+  {
+    "id": 48,
+    "name": "Paris",
+    "startDate": 1708556800,
+    "endDate": 1709484800
+  },
+  {
+    "id": 49,
+    "name": "Barcelona",
+    "startDate": 1709484800,
+    "endDate": 1710268800
+  },
+  {
+    "id": 50,
+    "name": "Venice",
+    "startDate": 1710268800,
+    "endDate": 1711027200
   }
 ]

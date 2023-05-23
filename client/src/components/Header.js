@@ -14,7 +14,7 @@ class Header extends Component {
       <LayoutHeader className="header">
         <div className="container">
           <div className="title" >
-            Locations App
+            Locations Test App
           </div>
         </div>
       </LayoutHeader>

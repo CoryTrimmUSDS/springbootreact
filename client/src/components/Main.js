@@ -18,9 +18,7 @@ class Main extends Component {
       url: ''
     };
 
-
     this.update = this.update.bind(this);
-
   }
 
   componentDidMount() {
@@ -49,7 +47,6 @@ class Main extends Component {
   }
 
   update(date) {
-    console.log('event', date);
     if (date.length > 1) {
       let startDate = date[0].unix();
       let endDate = date[1].unix();
