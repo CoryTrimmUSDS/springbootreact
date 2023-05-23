@@ -1,7 +1,9 @@
 # Description
 
 Dockerized Spring Boot backend with ReactJS frontend starter project. Database is MySQL.
+
 **Note** - The Date Range selector is a bit buggy for the `onChange()` call.
+
 **Note** - This is a proof of concept app intended only for pre-production environments.
 
 # Prerequisites
@@ -10,7 +12,7 @@ Dockerized Spring Boot backend with ReactJS frontend starter project. Database i
 ## Running Locally
 ### M1 Macbook Pro (ARM Processor)
 - Docker Installed
-- Clone Repository with Git CLI or via GitHub Desktop
+- Clone Repository locally with Git CLI or via GitHub Desktop
 - Run `make up` to build and run containers
 - Access frontend at `[localhost:1337](http://localhost:1337/)`
 
