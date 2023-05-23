@@ -5,9 +5,7 @@ Dockerized Spring Boot backend with ReactJS frontend starter project. Database i
 **Note** - This is a proof of concept app intended only for pre-production environments.
 
 # Prerequisites
-To-Do - Finish this.
 - Docker
-- 
 
 ## Running Locally
 ### M1 Macbook Pro (ARM Processor)
