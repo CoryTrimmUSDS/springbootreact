@@ -14,7 +14,7 @@ Dockerized Spring Boot backend with ReactJS frontend starter project. Database i
 - Docker Installed
 - Clone Repository locally with Git CLI or via GitHub Desktop
 - Run `make up` to build and run containers
-- Access frontend at `[localhost:1337](http://localhost:1337/)`
+- Access frontend at [localhost:1337](http://localhost:1337/)
 
 ### Non-ARM Machines
 **Note** - The Macbook Pro M1 runs a different processor than most machines (it runs ARM). Most machines are x86
